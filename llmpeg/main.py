@@ -280,7 +280,7 @@ def main():
     )
 
     parser.add_argument(
-        "-k"
+        "-k",
         "--key",
         dest="key",
         type=str,
